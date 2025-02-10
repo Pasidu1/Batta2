@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=rvZjCAjY#ufeSySS4pDVIzm9uRz0tCsyFQ-DhuSwsGMxhGekLZ7s.",
       "required": true
     },
  "NEWS_SEND_JID": {
